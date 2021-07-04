@@ -22,7 +22,7 @@ I'm a project maintainer of and contributor to:
 
 [PSRule]: https://github.com/microsoft/PSRule
 [PSRule-version-badge]:https://img.shields.io/powershellgallery/v/PSRule.svg?label=PowerShell%20Gallery&color=brightgreen
-[PSRule.Rules.Azure]: https://github.com/microsoft/PSRule.Rules.Azure
+[PSRule.Rules.Azure]: https://github.com/Azure/PSRule.Rules.Azure
 [PSRule.Rules.CAF]: https://github.com/microsoft/PSRule.Rules.CAF
 [PSRule.Rules.GitHub]: https://github.com/microsoft/PSRule.Rules.GitHub
 [PSRule.Rules.Kubernetes]: https://github.com/microsoft/PSRule.Rules.Kubernetes
@@ -31,5 +31,5 @@ I'm a project maintainer of and contributor to:
 [PSRule-vscode]: https://github.com/microsoft/PSRule-vscode
 [PSRule-pipelines]: https://github.com/microsoft/PSRule-pipelines
 [ps-rule]: https://github.com/microsoft/ps-rule
-[PSDocs]: https://github.com/BernieWhite/PSDocs
+[PSDocs]: https://github.com/microsoft/PSDocs
 [PSDocs.Azure]: https://github.com/Azure/PSDocs.Azure
