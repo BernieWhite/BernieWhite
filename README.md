@@ -19,6 +19,8 @@ I'm a project maintainer of and contributor to:
 ⚡[PSDocs] - Generate markdown from PowerShell.
 
 - [PSDocs.Azure] - Generate documentation from Azure infrastructure as code (IaC) artifacts.
+- [PSDocs.Azure-quickstart] - A GitHub template repository to get started with PSDocs for Azure.
+- [ps-docs] - Generate documentation from infrastructure as code (IaC) using GitHub Actions.
 
 [PSRule]: https://github.com/microsoft/PSRule
 [PSRule-version-badge]:https://img.shields.io/powershellgallery/v/PSRule.svg?label=PowerShell%20Gallery&color=brightgreen
@@ -33,3 +35,5 @@ I'm a project maintainer of and contributor to:
 [ps-rule]: https://github.com/microsoft/ps-rule
 [PSDocs]: https://github.com/microsoft/PSDocs
 [PSDocs.Azure]: https://github.com/Azure/PSDocs.Azure
+[ps-docs]: https://github.com/microsoft/ps-docs
+[PSDocs.Azure-quickstart]: https://github.com/Azure/PSDocs.Azure-quickstart
