@@ -7,12 +7,9 @@ I'm a project maintainer of and contributor to:
 ⚡[PSRule] - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 
 - [PSRule.Rules.Azure] - Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
-- [PSRule.Rules.CAF] - A suite of rules to validate Azure resources against the Cloud Adoption Framework (CAF) using PSRule.
 - [PSRule.Rules.GitHub] - A suite of rules to validate GitHub repositories using PSRule.
 - [PSRule.Rules.Kubernetes] - A suite of rules to validate Kubernetes resources using PSRule.
 - [PSRule.Rules.MSFT.OSS] - A suite of rules to validate repositories against Microsoft Open Source Software (OSS) requirements.
-- [PSRule.Monitor] - Log PSRule analysis results to Azure Monitor.
-- [PSRule-vscode] - A Visual Studio Code extension for PSRule.
 - [PSRule-pipelines] - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [ps-rule] - Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
 
